@@ -38,10 +38,10 @@ Make sure you have the following installed on your system:
 Clone the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/your-username/admin_dashboard.git
+git clone https://github.com/kumarabhishek188/admin_dashboard.git
 ```
 
 ## Demo Link
 
-You can view a live demo of the Resume Builder here: [Demo](https://your-demo-link.com)
+You can view a live demo of the Resume Builder here: [https://admin-dashboard-mauve-five.vercel.app/]
 
