@@ -43,5 +43,5 @@ git clone https://github.com/kumarabhishek188/admin_dashboard.git
 
 ## Demo Link
 
-You can view a live demo of the Resume Builder here: [https://admin-dashboard-mauve-five.vercel.app/]
+You can view a live demo of the Admin Dashboard here: [https://admin-dashboard-mauve-five.vercel.app/]
 
